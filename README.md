@@ -1,2 +1,2 @@
 # Delta-demo
-This is the example of Git and GitHub
+This is the example of Git and GitHub.
